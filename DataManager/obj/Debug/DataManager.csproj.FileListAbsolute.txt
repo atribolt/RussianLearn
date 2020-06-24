@@ -1,0 +1,17 @@
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\DataManager.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\DataManager.pdb
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\obj\Debug\DataManager.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\obj\Debug\DataManager.pdb
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Antlr3.Runtime.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Iesi.Collections.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\NHibernate.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Remotion.Linq.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Antlr3.Runtime.xml
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Iesi.Collections.xml
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\NHibernate.xml
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Remotion.Linq.xml
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\atribolt\source\repos\RussianLearn\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
